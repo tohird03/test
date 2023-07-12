@@ -1,0 +1,1 @@
+export {SingleCategory} from './SingleCategory';
